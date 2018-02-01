@@ -1,4 +1,4 @@
-# digitalelectronics
+# Ricardo Hernandez Digital Electronics
 IxD Digital Electronics
 
 # Week 2: Thursday, January 25, 2018
