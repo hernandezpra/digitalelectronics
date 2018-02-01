@@ -9,3 +9,5 @@ This project uses photoresistors and phototransistors to sense different colors.
 
 Here is a project that shows a machine that sorts candy by color: https://www.youtube.com/watch?v=H7HTQai7Wwg
 This project uses RGB sensors, IR distance sensors, and motors to sort the color.
+
+Background of Idea: How do you help a blind person navigate a buffet line by helping them identify the contents of the food trays? 
