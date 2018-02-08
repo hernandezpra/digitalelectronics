@@ -14,11 +14,6 @@ Background of Idea: How do you help a blind person navigate a buffet line by hel
 
 # Week 3: Thursday, February 8, 2018
 
-Homework:
-
-Create a very rough schematic to the best of your ability
-
-
 ### Concept
 The device I am proposing is an assitive technology that allows blind individuals to recogize food based on detecting color. The context would be a buffet where the individual canot different between the types of food available. Depending on the complexity, it would be interesting to make this project a multi-wearable accessory that also detects distance while in line. It would be interesting to create a device that augments more than one human ability; in this case, sensing distance and perhaps color/light. 
 
