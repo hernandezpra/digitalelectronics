@@ -48,3 +48,13 @@ I began experimenting with the AdaFruit 1356 Color Sensor and practiced solderin
 
 ### V2.0: TCS3200 Color Sensor (Midterm)
 
+![img_8331](https://user-images.githubusercontent.com/35578913/37173064-72ed9004-22c7-11e8-80f0-6c27bbbabfe7.jpg)
+
+![img_8332](https://user-images.githubusercontent.com/35578913/37173129-9aa45808-22c7-11e8-94e8-0ae8582ccc8a.JPG)
+
+![img_8333](https://user-images.githubusercontent.com/35578913/37173148-a7b1ce4a-22c7-11e8-8f94-a971ae922c25.JPG)
+
+![img_8334](https://user-images.githubusercontent.com/35578913/37173168-b6f3bb02-22c7-11e8-9adf-7a695a5f9021.JPG)
+
+For the midterm presentation I assembled a color sensor with an LED output. Whenever the sensor recognized RGB, the LEDs would light up accordingly. However, the red sensor was not working so I need to troubleshoot that. In addition, I wanted to connect a piezo as an output for the color sensor. If the sensor were to read a red color then the piezo would go off, but only if it were reading red and not any other color. This would allow for different outputs and readings of food color and the outputs could inform the user on what food their looking at. 
+
