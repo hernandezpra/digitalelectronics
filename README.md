@@ -30,14 +30,21 @@ Help blind individuals navigate a buffet line by helping them identify the conte
 Color Sensor
 <img width="795" alt="screen shot 2018-02-08 at 9 20 58 am" src="https://user-images.githubusercontent.com/35578913/35987791-8c9f5f36-0cb1-11e8-9041-d18408146e0f.png">
 
-### V1.0
-IR and Vibration 
+### V1.0: Ultrasonic, IR, Vibration 
 
 ![img_8122](https://user-images.githubusercontent.com/35578913/35987931-f8328610-0cb1-11e8-8905-6076483f7250.JPG)
 
+![sku_416860_1](https://user-images.githubusercontent.com/35578913/37172416-8ec72378-22c5-11e8-827d-2b3ce4d79da2.jpg)
+
+![ir sensor](https://user-images.githubusercontent.com/35578913/37172440-9fc946ba-22c5-11e8-985e-4e6726af4671.jpg)
+
 I began testing my idea with a simple ultrasonic sensor with a vibration output to understand different modes of using haptic feedback. After testing this prototype I realized that the ultrasonic sensor does not work very well with soft materials so I changed it to a IR sensor. This allowed for more accurate measurements, however, I had to map out the readings from the sensor to match metric scale data. 
 
+### V1.1: AdaFruit 1356 Color Sensor
 
-  
+![adafruit color sensor](https://user-images.githubusercontent.com/35578913/37172676-545bf226-22c6-11e8-9aaf-1ebd7f7194a6.jpg)
 
+I began experimenting with the AdaFruit 1356 Color Sensor and practiced soldering with it. However, I quickly learned that I am not good a soldering small companents and ended up burning the metal off of the sensor. Who thought that was even possible? Regardless, I went ahead and ordered a different color sensor that came with the male parts instead of requiring soldering. 
+
+### V2.0: TCS3200 Color Sensor (Midterm)
 
