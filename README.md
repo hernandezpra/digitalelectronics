@@ -58,3 +58,8 @@ I began experimenting with the AdaFruit 1356 Color Sensor and practiced solderin
 
 For the midterm presentation I assembled a color sensor with an LED output. Whenever the sensor recognized RGB, the LEDs would light up accordingly. However, the red sensor was not working so I need to troubleshoot that. In addition, I wanted to connect a piezo as an output for the color sensor. If the sensor were to read a red color then the piezo would go off, but only if it were reading red and not any other color. This would allow for different outputs and readings of food color and the outputs could inform the user on what food their looking at. 
 
+### Fritzing Diagram
+
+![breadboard](https://user-images.githubusercontent.com/35578913/38073715-0d829cd0-32e1-11e8-9910-79fc9cef4b62.jpg)
+
+![schematic](https://user-images.githubusercontent.com/35578913/38073840-85d6de1c-32e1-11e8-8e15-02f9f93b44de.jpg)
