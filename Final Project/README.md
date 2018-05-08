@@ -56,8 +56,7 @@ What would a wearable therapy device look like if it were context specific? A ke
 ## Interface Show 
 
 ![img_8521](https://user-images.githubusercontent.com/35578913/39737038-e2094916-5237-11e8-9858-863715265941.JPG)
-![img_8522](https://user-images.githubusercontent.com/35578913/39737039-e2258b08-5237-11e8-880b-61fd7b9fd25d.JPG)
-![img_8523](https://user-images.githubusercontent.com/35578913/39737040-e2437bb8-5237-11e8-97e4-50cd4de28ac8.JPG)
+
 
 
 
